@@ -33,7 +33,6 @@ const Banner = () => {
                         </div>
                         <div className="text-white text-[1rem] font-medium ">
                             <p>A PROPOS</p>
-                            <hr className='' />
                             <p className='text-green'>Nos productions</p>
                         </div>
                     </div>
