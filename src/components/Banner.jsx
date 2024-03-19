@@ -8,7 +8,7 @@ const Banner = () => {
             <div className="" style={
                 {
                     width: '100vw',
-                    height: '78vh',
+                    height: '91vh',
                     marginTop: "4rem",
                     backgroundImage: `url(${banner})`,
                     backgroundRepeat: 'no-repeat',
