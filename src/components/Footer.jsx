@@ -1,5 +1,5 @@
 import React from 'react'
-import footer from '../assets/images/logos/SOSO_5.png'
+import footer from '../assets/images/logos/logo_footer.png'
 import facebook from '../assets/images/logos/facebook.png'
 import twitter from '../assets/images/logos/twitter.png'
 import linkedin from '../assets/images/logos/linkedin.png'
