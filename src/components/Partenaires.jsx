@@ -13,7 +13,6 @@ const Partenaires = () => {
                 <div className="w-[40%] ">
                     <h1 className='text-4xl font-extrabold mb-2'>Ceux qui nous ont fait confiance</h1>
                     <hr className='w-16  border-2 border-black mb-2' />
-                    <p className='text-xl text-blue-600 underline cursor-pointer'>Plus d'info</p>
                 </div>
                 <div className=" grid grid-cols-[repeat(3,40%)] grid-rows-[repeat(2,50%)]  ">
                     <img src={glori} className='w-[8rem]' />

@@ -9,6 +9,7 @@ const Banner = () => {
                 {
                     width: '100vw',
                     height: '85vh',
+                    marginTop: "4rem",
                     backgroundImage: `url(${banner})`,
                     backgroundRepeat: 'no-repeat',
                     backgroundPosition: 'center',
@@ -22,7 +23,7 @@ const Banner = () => {
             } >
                 <div className="w-[55%]">
                     <h1 className='text-white text-6xl font-extrabold mb-5'>Où l'art <br /> devient vivant <br /> & creatif</h1>
-                    <p className='text-[#f3fff8] text-xl mb-[6rem]'>Chez <span className='text-green'>r<span>O</span>oy.creativo</span> Nous croyons en la puissance de la créativité pour transforùer des idées en réalisation exceptionelles</p>
+                    <p className='text-[#f3fff8]  text-[1.1rem] mb-[6rem]'>Chez <span className='text-green'>r<span>O</span>oy.creativo</span> Nous croyons en la puissance de la créativité pour transforùer des idées en réalisation exceptionelles</p>
                     <div className="flex gap-6">
                         <div className="">
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-player-play bg-green rounded-full p-2" width="54" height="54" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">

@@ -8,7 +8,7 @@ const Faisons = () => {
         <div className="" style={
                 {
                     width: '100vw',
-                    height: '50vh',
+                    height: '53vh',
                     backgroundImage: `url(${rectangle})`,
                     backgroundRepeat: 'no-repeat',
                     backgroundPosition: 'center',
@@ -20,8 +20,8 @@ const Faisons = () => {
                     paddingLeft: '25rem',
                 }
             }>
-                <div className="px-[17rem] ">
-                    <p className='text-xl text-green font-semibold mt-8 mb-6'>A PROPOS DE NOUS</p>
+                <div className="w-[55%] pt-[1rem] ">
+                    <p className='text-xl text-green font-semibold mt-8 mb-4'>A PROPOS DE NOUS</p>
                     <h2 className='text-4xl text-white font-bold mb-2'>Ce que nous <span className='text-green'>sommes</span></h2>
                     <hr className='w-12  h-2' />
                     <p className='text-white text-[1rem]  mb-8'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi tempore cupiditate perferendis dolor aliquid eveniet, culpa quasi nihil corporis ullam id autem at. Itaque tempora sed exercitationem quasi aliquam sit!</p>

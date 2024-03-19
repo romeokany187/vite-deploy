@@ -9,7 +9,7 @@ import Footer from '../components/Footer'
 const home = () => {
   return (
     <div className='bg-primary overflow-x-hidden'>
-        <NavBar/>
+        <NavBar className={`top-0 left-0 fixed `}/>
         <Banner/>
         <Nous/>
         <Partenaires/>
