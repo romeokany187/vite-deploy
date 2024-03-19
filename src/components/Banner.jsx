@@ -22,8 +22,8 @@ const Banner = () => {
                 }
             } >
                 <div className="w-[55%]">
-                    <h1 className='text-white text-6xl font-extrabold mb-5'>Où l'art <br /> devient vivant <br /> & creatif</h1>
-                    <p className='text-[#f3fff8]  text-[1.1rem] mb-[3rem]'>Chez <span className='text-green'>r<span>O</span>oy.creativo</span> Nous croyons en la puissance de la créativité pour transforùer des idées en réalisation exceptionelles</p>
+                    <h1 className='text-[#dce5e2] text-6xl font-extrabold mb-5'>Où l'art <br /> devient vivant <br /> & creatif</h1>
+                    <p className='text-[#dce5e2]  text-[1.1rem] mb-[3rem]'>Chez <span className='text-green'>r<span>O</span>oy.creativo</span> Nous croyons en la puissance de la créativité pour transforùer des idées en réalisation exceptionelles</p>
                     <div className="flex gap-6">
                         <div className="">
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler bg-green rounded-full p-2 icon-tabler-player-play-filled" width="54" height="54" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -31,7 +31,7 @@ const Banner = () => {
                                 <path d="M6 4v16a1 1 0 0 0 1.524 .852l13 -8a1 1 0 0 0 0 -1.704l-13 -8a1 1 0 0 0 -1.524 .852z" stroke-width="0" fill="currentColor" />
                             </svg>
                         </div>
-                        <div className="text-white text-[1rem] font-medium ">
+                        <div className="text-[#dce5e2] text-[1rem] font-medium ">
                             <p>A PROPOS</p>
                             <p className='text-green'>Nos productions</p>
                         </div>
