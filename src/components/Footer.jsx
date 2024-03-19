@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div>
         <div className="flex flex-col items-center">
-                <div className="px-[17rem] py-[3rem] flex justify-center items-center gap-16 ">
+                <div className="px-[15rem] py-[3rem] flex justify-center items-center gap-16 ">
                     <div className="bg">
                         <img src={footer} className='w-[15rem] mb-8' alt="" />
                         <p className='text-white text-[1rem] '>Nous sommes basés à Goma, RD Congo.</p>

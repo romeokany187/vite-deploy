@@ -17,7 +17,7 @@ const Banner = () => {
                     display: 'flex',
                     flexDirection: 'column',
                     justifyContent: 'center',
-                    paddingLeft: '17rem',
+                    paddingLeft: '15rem',
                     paddingRight: '10rem',
                 }
             } >

@@ -8,7 +8,7 @@ import icon5 from '../assets/icons_services/ux-design.png'
 const Nous = () => {
   return (
     <div>
-        <div className="px-[17rem] py-8 flex gap-9 ">
+        <div className="px-[15rem] py-8 flex gap-9 ">
                 <div className="w-[60%] ">
                     <p className='text-xl text-green font-semibold mb-4'>Nos services</p>
                     <h2 className='text-[1.6rem] text-white font-bold mb-2'>Ce que nous <span className='text-green'>faisons</span></h2>

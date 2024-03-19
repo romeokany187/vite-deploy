@@ -9,7 +9,7 @@ import mono from '../assets/images/logos/M_6.png'
 const Partenaires = () => {
   return (
     <div>
-        <div className="px-[17rem] h-[45vh] bg-white  flex justify-between items-center gap-[3rem] ">
+        <div className="px-[15rem] h-[45vh] bg-white  flex justify-between items-center gap-[3rem] ">
                 <div className="w-[40%] ">
                     <h1 className='text-4xl font-extrabold mb-2'>Ceux qui nous ont fait confiance</h1>
                     <hr className='w-16  border-2 border-black mb-2' />
